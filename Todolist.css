@@ -1,0 +1,8 @@
+input:checked {
+    text-decoration: line-through;
+    color: red;
+}
+
+ul {
+    list-style-type: none;
+}
